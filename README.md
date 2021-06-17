@@ -39,4 +39,5 @@ Assemble and link:
 ```
 Output:
 
-![Alt text](../images/asm_helloworld_output.png?raw=true "Title")
+![asm_helloworld_output](https://user-images.githubusercontent.com/66387143/122335922-024aa100-cf0a-11eb-9bf5-cbb360011d0c.png)
+
