@@ -37,3 +37,6 @@ Assemble and link:
 # nasm -f elf32 -o helloworld.o helloworld.asm
 # ld -o helloworld helloworld.o
 ```
+Output:
+
+![alt text](https://prnt.sc/15o9m6r)
