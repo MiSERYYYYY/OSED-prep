@@ -39,4 +39,4 @@ Assemble and link:
 ```
 Output:
 
-![alt text](https://i.imgur.com/6SSbyOz.png)
+![Alt text](../images/asm_helloworld_output.png?raw=true "Title")
