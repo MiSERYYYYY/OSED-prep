@@ -39,4 +39,4 @@ Assemble and link:
 ```
 Output:
 
-![alt text](https://prnt.sc/15o9m6r)
+![alt text](https://i.imgur.com/6SSbyOz.png)
