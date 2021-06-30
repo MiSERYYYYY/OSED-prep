@@ -45,7 +45,7 @@ Output:
 
 https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 
-# SHORT JUMP (x86) REFERENCE
+# SHORT JUMP BACKWARDS (x86) REFERENCE
 
 FF	-1
 FE	-2
@@ -175,6 +175,10 @@ A0	-96
 82	-126
 81	-127
 80	-128
+
+```
+\xeb\x81 = jump 127 bytes backwards
+```
 
 ![image](https://user-images.githubusercontent.com/66387143/124022161-6f564000-d9ba-11eb-8915-cd8a5d381af9.png)
 
